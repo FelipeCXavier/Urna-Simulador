@@ -1,7 +1,7 @@
 # Urna-Eletrônica 🗳️
 
 # Sobre o projeto 🖥️
-Este é um programa desenvolvido em Sharp .NET durante meus estudos na Universidade UNINOVE.
+Este é um programa desenvolvido em CSharp .NET durante meus estudos na Universidade UNINOVE.
 
 # Aprendizado 🤓
 Durante este projeto, aprimorei minhas habilidades no Visual Studio e na implementação dos 
